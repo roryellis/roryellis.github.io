@@ -1,0 +1,16 @@
+.main {
+	background-image: url(http://adwallpapers.xyz/uploads/posts/6231-whiteblue-abstract-modern-background.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+
+.card {
+    margin: 5px;
+}
+
+.btn {
+    margin: 2px 0;
+}
